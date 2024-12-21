@@ -3,7 +3,7 @@
 
 ---
 
-![Banner Personalizado](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+GitHub)  
+![Banner Personalizado](https://kuromy777.github.io/kuromy777/banner.png)  
 *(Reemplaza este banner por uno diseñado con colores morados oscuros y estilo pixel art.)*
 
 ## 📝 **Sobre mí**
