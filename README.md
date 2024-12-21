@@ -4,7 +4,7 @@
 ---
 
 ![Banner Personalizado](https://kuromy777.github.io/kuromy777/banner.png)  
-*(Reemplaza este banner por uno diseñado con colores morados oscuros y estilo pixel art.)*
+
 
 ## 📝 **Sobre mí**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
