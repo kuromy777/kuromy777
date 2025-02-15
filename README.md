@@ -1,4 +1,4 @@
-### <img src="https://media.tenor.com/9f3m32Zi_t0AAAAm/guardians-of-the-galaxy-marvel-studios.webp" alt="heart" width="40"/> **HOWDY!**   
+### <img src="https://media.tenor.com/9f3m32Zi_t0AAAAm/guardians-of-the-galaxy-marvel-studios.webp" alt="heart" width="30"/> **HOWDY!**   
 ---  
 ### 📦**SKILLS**📦
 ![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
