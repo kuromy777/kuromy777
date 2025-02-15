@@ -1,4 +1,4 @@
-# 👾 **¡Hola, soy Kuromy!** 👾
+# 👾 **¡Hola, soy Kuro!** 👾
 ### 🚀 Desarrollador Full Stack | Amante del Pixel Art | Explorador de la Tecnología
 
 ---
