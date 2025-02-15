@@ -1,4 +1,4 @@
-### <img src="https://media.tenor.com/cYMIR2LTU8wAAAAm/pixel-trombone.webp" alt="heart" width="20"/> **Howdy!**   
+### <img src="https://media.tenor.com/0-M-_QQY4eQAAAAm/pixel-heart.webp" alt="heart" width="20"/> **Howdy!**   
 ---  
 ### 📦**Skills**📦
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
