@@ -1,6 +1,7 @@
 ### <img src="https://media.tenor.com/0-M-_QQY4eQAAAAm/pixel-heart.webp" alt="heart" width="20"/> **Howdy!**   
 ---  
 ### 📦**Skills**📦
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="66" height="66" /></div>
 ![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
 ---  
 ## 📝 **Sobre mí**
