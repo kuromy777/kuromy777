@@ -1,7 +1,7 @@
 ### <img src="https://media.tenor.com/0-M-_QQY4eQAAAAm/pixel-heart.webp" alt="heart" width="20"/> **Howdy!**   
 ---  
 ### 📦**Skills**📦
-![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron)
+![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,devto,fastapi,firebase,gamemakerstudio,git,idea,mysql,nodejs,py,react,spring,vscode)
 ---  
 ## 📝 **Sobre mí**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
