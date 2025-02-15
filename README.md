@@ -1,5 +1,5 @@
 # 👾 **¡Howdy!** 👾
-![heart](https://media.tenor.com/-OeTzBU0aZkAAAAi/parrot-minecraft.gif) **Software engineer**
+![heart](https://media.tenor.com/-OeTzBU0aZkAAAAi/parrot-minecraft.gif) # **Software engineer**
 
 ## 📝 **Sobre mí**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
