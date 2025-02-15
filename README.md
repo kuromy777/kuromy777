@@ -2,15 +2,6 @@
 
 <img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="20"/> **Software engineer**
 
-
-## 📝 **Sobre mí**
-🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
-💜 Mi stack favorito incluye: **JavaScript**, **Python**, **Node.js**, y bases de datos como **PostgreSQL**.  
-🎨 Siempre en busca de combinar tecnología con arte pixelado y colores vibrantes.  
-🌟 ¡Disponible para trabajar en proyectos emocionantes o unirme a tu equipo!  
-
----
-
 ## ⚙️ **Tecnologías que uso**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -19,7 +10,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## 📝 **Sobre mí**
+🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
+💜 Mi stack favorito incluye: **JavaScript**, **Python**, **Node.js**, y bases de datos como **PostgreSQL**.  
+🎨 Siempre en busca de combinar tecnología con arte pixelado y colores vibrantes.  
+🌟 ¡Disponible para trabajar en proyectos emocionantes o unirme a tu equipo!  
+
 
 ## 🕹️ **Proyectos destacados**
 ### 🎮 [**Juego Retro Online**](https://github.com/tu-repo)
@@ -32,8 +28,6 @@
 > Sitio web interactivo creado en **React** con un diseño inspirado en pixel art.  
 > 💡 Incluye animaciones retro y efectos visuales en **CSS3**.  
 
----
-
 ## 📊 **Mis estadísticas**
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)  
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)  
@@ -45,13 +39,4 @@
 - Técnicas avanzadas de visualización en **Three.js**.  
 - Mejora de interfaces accesibles y adaptativas.
 
----
 
-## 🎨 **Arte en ASCII**
-```text
-             _.-.
-           .-.  .--''`  |
-          |   ` |       |
-           \    |       |
-            '--.|______.-'
-👾 Diseñado con amor por [Tu Nombre]
