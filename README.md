@@ -1,5 +1,5 @@
-# 👾 **¡Hola, soy Kuro!** 👾
-### 🚀 Desarrollador Full Stack | Amante del Pixel Art | Explorador de la Tecnología
+# 👾 **¡Howdy!** 👾
+### (https://kuromy777.github.io/kuromy777/banner.png) Desarrollador Full Stack | Amante del Pixel Art | Explorador de la Tecnología
 
 ---
 
