@@ -8,7 +8,7 @@
 💜 Mi stack favorito incluye: **JavaScript**, **Python**, **Node.js**, y bases de datos como **PostgreSQL**.  
 🎨 Siempre en busca de combinar tecnología con arte pixelado y colores vibrantes.  
 🌟 ¡Disponible para trabajar en proyectos emocionantes o unirme a tu equipo!  
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake-dark.svg" />
