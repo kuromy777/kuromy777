@@ -9,9 +9,10 @@
 🎨 Siempre en busca de combinar tecnología con arte pixelado y colores vibrantes.  
 🌟 ¡Disponible para trabajar en proyectos emocionantes o unirme a tu equipo!  
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake.svg" />
+  <img alt="Snake Game" src="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake.svg" />
 </picture>
 
