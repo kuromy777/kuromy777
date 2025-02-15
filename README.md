@@ -1,5 +1,6 @@
 # 👾 **¡Howdy!** 👾
-# ![heart](https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp) **Software engineer**
+# <img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="300"/>
+**Software engineer**
 
 ## 📝 **Sobre mí**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
