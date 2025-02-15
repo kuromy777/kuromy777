@@ -1,7 +1,5 @@
 # 👾 **¡Howdy!** 👾
-![heart](https://cdn.discordapp.com/attachments/1252798714439794710/1339736894359208006/heart.png?ex=67b12036&is=67afceb6&hm=0a26e340e2a6640f159a9e69d27f6f0fd93a232c86f0fc4215f2e1f4c1432d6c&)  Software engineer
-
----
+![heart](https://cdn.discordapp.com/attachments/1252798714439794710/1339736894359208006/heart.png?ex=67b12036&is=67afceb6&hm=0a26e340e2a6640f159a9e69d27f6f0fd93a232c86f0fc4215f2e1f4c1432d6c&) **Desarrollador Full Stack**
 
 ![Banner Personalizado](https://kuromy777.github.io/kuromy777/banner.png)  
 
