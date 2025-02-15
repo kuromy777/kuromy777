@@ -1,7 +1,7 @@
 ### **HOWDY!**   
 ---  
 ### 📦**SKILLS**📦
-![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
+![My Skills](https://skillicons.dev/icons?i=npm,github,aws,java,electron,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
 ---
 ### <img src="https://media.tenor.com/tmC4P9hHGwEAAAAm/jojo-menacing.webp" alt="heart" width="40"/> **About Me**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
