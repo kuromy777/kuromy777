@@ -1,4 +1,4 @@
-### 👾 **Howdy!, I’m Kuro** 👾  
+<img src="https://media.tenor.com/iVjWM2acEeQAAAAm/minecraft-ghast.webp" alt="heart" width="20"/> ###  **Howdy!, I’m Kuro**   
 ---  
 
 
