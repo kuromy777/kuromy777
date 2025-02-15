@@ -1,6 +1,6 @@
 👾 **¡Howdy!** 👾
 
-<img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="10"/> **Software engineer**
+<img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="20"/> **Software engineer**
 
 
 ## 📝 **Sobre mí**
