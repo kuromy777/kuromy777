@@ -1,4 +1,4 @@
-### <img src="https://media.tenor.com/0-M-_QQY4eQAAAAm/pixel-heart.webp" alt="heart" width="20"/> **Howdy!**   
+### <img src="https://media.tenor.com/Dgevf4re10cAAAAm/party-pepe-frog-party.webp" alt="heart" width="20"/> **HOWDY!**   
 ---  
 ### 📦**SKILLS**📦
 ![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
