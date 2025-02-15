@@ -1,5 +1,5 @@
 # 👾 **¡Howdy!** 👾
-# <img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="300"/>
+# <img src="https://media.tenor.com/dEstiu7AtqQAAAAm/netherrite.webp" alt="heart" width="50/>
 **Software engineer**
 
 ## 📝 **Sobre mí**
