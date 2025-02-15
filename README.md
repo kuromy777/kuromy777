@@ -3,7 +3,6 @@
 ### 📦**SKILLS**📦
 ---
 ![My Skills](https://skillicons.dev/icons?i=github,npm,java,electron,aws,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
----  
 ## 📝 **Sobre mí**
 🎮 Apasionado por la programación, el diseño retro y los videojuegos.  
 💜 Mi stack favorito incluye: **JavaScript**, **Python**, **Node.js**, y bases de datos como **PostgreSQL**.  
