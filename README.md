@@ -10,7 +10,7 @@
 👾 Passionate about programming, retro design, and video games.  
 🕹️ My favorite stack includes: Java, Python, C++.  
 🗾 Trilingual Software Engineer.  
-🍜 Available to work on exciting projects!
+🍜 Available to work on exciting projects!.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake-dark.svg" />
