@@ -6,7 +6,7 @@
 
 ---  
 
-### <img src="https://media.tenor.com/tmC4P9hHGwEAAAAm/jojo-menacing.webp" alt="heart" width="35"/> **ABOUT ME**  
+### <img src="https://media.tenor.com/tmC4P9hHGwEAAAAm/jojo-menacing.webp" alt="heart" width="30"/> **ABOUT ME**  
 👾 Passionate about programming, retro design, and video games.  
 🕹️ My favorite stack includes: Java, Python, C++.  
 🗾 Trilingual Software Engineer.  
