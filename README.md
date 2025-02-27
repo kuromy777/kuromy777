@@ -13,7 +13,7 @@
 🍜 Available to work on exciting projects!.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake.svg" />
-  <img alt="Snake Game" src="https://kuromy777.github.io/kuromy777/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://kurojs.github.io/kurojs/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://kurojs.github.io/kurojs/github-contribution-grid-snake.svg" />
+  <img alt="Snake Game" src="https://kurojs.github.io/kurojs/github-contribution-grid-snake.svg" />
 </picture>
